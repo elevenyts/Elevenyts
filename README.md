@@ -2,8 +2,6 @@
 🔭 I’m currently working on Telegram Bots and YouTube related projects.<br>👯 I’m looking to collaborate on Telegram bot development and open-source projects.<br>🤝 I’m looking for help with improving my coding skills and learning advanced bot development.<br>🌱 I’m currently learning Python, API integration, and Telegram bot automation.<br>💬 Ask me about Telegram bots, and bot deployment.<br>⚡ Fun fact: I love creating useful Telegram bots and experimenting with new tech.<br>
 
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@elevenyts) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Elevenyts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
